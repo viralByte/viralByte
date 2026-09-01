@@ -2,18 +2,6 @@
 
 ### `Computer Science Student` · `Software Engineer in the Making` · `Builder`
 
-<p align="left">
-  <a href="https://github.com/viralByte">
-    <img src="https://komarev.com/ghpvc/?username=viralByte&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/viralByte?tab=followers">
-    <img src="https://img.shields.io/github/followers/viralByte?label=Followers&style=flat" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/viralByte?tab=repositories">
-    <img src="https://img.shields.io/github/stars/viralByte?affiliations=OWNER&style=flat&label=Stars" alt="GitHub stars"/>
-  </a>
-</p>
-
 > I like building things that are **useful, scalable, and technically interesting.**
 
 I'm a Computer Science undergraduate exploring **software engineering, backend systems, full-stack development, cloud architecture, and AI-powered applications**.
