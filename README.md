@@ -52,7 +52,7 @@ Currently sharpening my **DSA + CS fundamentals** while building projects that p
 ### Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
 
 ### Databases & Cloud
@@ -64,7 +64,7 @@ Currently sharpening my **DSA + CS fundamentals** while building projects that p
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
