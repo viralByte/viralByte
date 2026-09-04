@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Viral Dubey
 
-### `Computer Science Student` · `Software Engineer in the Making` · `Builder`
+### `Computer Science Student` · `Software Engineer in the Making` · `Aspiring Developer`
 
 > I like building things that are **useful, scalable, and technically interesting.**
 
