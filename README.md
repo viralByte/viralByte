@@ -240,5 +240,4 @@ I care about writing software that is not only functional, but also **maintainab
 ### 💻 Build → Break → Learn → Repeat
 
 <i>Thanks for stopping by!</i> ⭐
-
 </p>
