@@ -17,8 +17,6 @@
 <a href="https://leetcode.com/Viral0101">
   <img src="https://img.shields.io/badge/LeetCode-Viral0101-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=viralByte&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-
 </div>
 
 <br/>
